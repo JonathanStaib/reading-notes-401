@@ -22,4 +22,9 @@
 
 1. Three benefits are catching bugs, reducing merge conflicts and have confidence that your software is working properly.
 2. The difference between Delivery and Deployment is that delivery is to devlop so that you can release at any time. While deploynent still allows you to devlop at any time but you can do it with confidence and it does it immediately with little to no downtime.
-3. 
+3. Github will inform you when some branches are behind the main branch and how many commits behind, Github also will instantly merge youor branch into main branch as long as it pasts tests.
+
+## README Goals
+
+- I would like to comfortably be able to test an express server after today.
+- be able to properly incorporate middleware into my project.
