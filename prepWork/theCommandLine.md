@@ -27,7 +27,7 @@
 
 ## File Manipulation
 
-- Devlop the habit of organizing your files or it can become very difficult to find your way around.
+- Develop the habit of organizing your files or it can become very difficult to find your way around.
 - `-p` in mkdir is a way to create parent directories, awesome.
 - `rmdir` to remove a directory
 - `touch` to make a blank file
