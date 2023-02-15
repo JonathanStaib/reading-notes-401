@@ -21,3 +21,7 @@
 1. An Express Router is a small scale express application without all the big features.
 2. We declare our router to be just `express.router()`. this allows us to apply routes to it and we can set default routes and create home and about pages.
 3. We use middleware so taht it can log data or check for authentication. It is a way to do stuff before any type of request has been proccessed.
+
+## README.md
+
+1. I would like to get more comfortable with creating my tests, It was quite challenging for me yesterday and I wasnt to build more comfortablity with it.
