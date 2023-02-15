@@ -28,3 +28,8 @@
 
 - I would like to comfortably be able to test an express server after today.
 - be able to properly incorporate middleware into my project.
+
+## Lecture Notes
+
+- Signature is what determines the input, outputs. The number of things going in and their type of return value.
+- 
