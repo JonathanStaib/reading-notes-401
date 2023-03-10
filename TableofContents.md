@@ -15,3 +15,4 @@
   [class 04 reading notes](./class-04.md)
   [class 06 reading notes](./class-06.md)
   [class 07 reading notes](./class-07.md)
+  [class 08 reading notes](./class-08.md)
