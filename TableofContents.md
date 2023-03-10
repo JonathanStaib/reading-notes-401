@@ -14,3 +14,4 @@
   [class 03 reading notes](./class-03.md)
   [class 04 reading notes](./class-04.md)
   [class 06 reading notes](./class-06.md)
+  [class 07 reading notes](./class-07.md)
